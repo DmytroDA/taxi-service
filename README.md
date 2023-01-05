@@ -1,7 +1,8 @@
 # ![img.png](img.png)
 # ☕️ Project description:
 ```
-This project automates the business processes of accounting and fleet management of the customer - a taxi service company.
+This project automates the business processes of accounting and fleet management 
+of the customer - a taxi service company.
 Using product solves the task of ensuring efficient use of taxi service resources.
 The product is used by the manager to manage and receive reports on the fleet.
 Drivers can also get information about the use company's cars.
